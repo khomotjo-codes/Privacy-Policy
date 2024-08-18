@@ -1,2 +1,75 @@
 # Privacy-Policy
-A privacy policy for the Luvart platform
+
+Last Updated: 17 August 2024
+
+Welcome to Luvart. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and protect your information when you use our platform, and how we comply with global data protection laws, including those applicable in South Africa and elsewhere in the world.
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+Personal Information: This includes your name, email address, phone number, location, date of birth, gender, profile photo, and other information you provide during registration or use of the platform.
+
+Content: Any posts, messages, images, videos, or other content you share on the platform.
+
+Usage Data: Information about your interactions with the platform, such as the pages you visit, the features you use, and the time you spend on the platform.
+
+Location Data: We may collect and process your location information if you enable location services on your device.
+
+Ad Data: Information related to advertisements served by third-party services like Google AdMob, including ad impressions, interactions, and preferences.
+
+2. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+To Provide and Improve Our Services: We use your information to create and manage your account, provide customer support, and improve the functionality and security of our platform.
+
+Personalization: To tailor the content and ads you see on our platform to your interests and preferences, using services like Google AdMob.
+
+Analytics: We use tools like Google Analytics, Firebase Analytics, and other GCP services to analyze usage data and improve our platform.
+
+3. Sharing Your Information
+
+We do not sell, rent, or trade your personal information. However, we may share your information with:
+
+Service Providers: Third-party vendors, including Google Cloud Platform (GCP) and Firebase, who assist us in operating our platform, such as hosting services, and analytics providers.
+
+Advertising Partners: Partners like Google AdMob to serve and personalize ads on our platform.
+
+Legal Obligations: Government authorities or other entities if required by law or to protect our legal rights.
+
+Business Transfers: If we are involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction.
+
+4. Your Rights
+
+Depending on your location, you may have certain rights regarding your personal information, including:
+
+Access: The right to request access to the personal information we hold about you.
+
+Rectification: The right to request correction of inaccurate or incomplete personal information.
+
+Erasure: The right to request the deletion of your personal information in certain circumstances.
+
+Restriction: The right to request the restriction of processing your personal information.
+
+Portability: The right to receive a copy of your personal information in a structured, commonly used format.
+
+Objection: The right to object to the processing of your personal information, particularly in relation to direct marketing.
+
+To exercise these rights, please contact us at khomotjoshiraz@gmail.com.
+
+5. Data Security
+
+We take appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction. We rely on services provided by GCP and Firebase to ensure the security of your data. However, no data transmission over the internet or data storage system can be guaranteed to be 100% secure.
+
+6. International Data Transfers
+
+As a South African-based platform, your information may be transferred to and processed in countries outside of South Africa. We ensure that such transfers comply with applicable data protection laws and that your information is protected to the same standard as required under South African law.
+
+8. Children's Privacy
+
+Our platform is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will take steps to delete such information.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any significant changes by posting the updated policy on our platform and indicating the date of the last revision.
